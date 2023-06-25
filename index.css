@@ -50,21 +50,26 @@ button{
     padding: 10  25px;
     align-content: center;
     border-radius: 10px;
+    margin-left: 35px;
 }
 section{
     display: flexbox;
     font-size: 36px;
     font-weight: 800;
     color: #1f2937;
+    margin-bottom: 50px;
 }
 .Rabbits_names{
     display: flexbox;
     font-size: 48px;
-    color: brown;
+    color:#1f2937;
+    font-size: 36px;
+    font-weight: 800;
 
 }
 .rabbits-images{
     display: inline;
+    margin-bottom: 700px;
     
 }
 .namingOne, .namingTwo, .namingThree, .namingFour{
@@ -75,14 +80,20 @@ section{
     background-color: #e5e7eb;
     font-size: 36px;
     font-style: italic;
+}
+.quotes{
     color: #1f2937;
 }
 .founder{
-    margin-right: 400px;
+    color: #1f2937;
+    margin-left: 590px;
+    margin-top: -2px;
 }
 .conclusion{
+    margin-top: 50px;;
     margin-left: 200px;
     width: 600px;
+    height: 10a0px;
     display: flexbox;
     background-color:#3882f6;
     flex-direction: column;
@@ -90,6 +101,7 @@ section{
     border-radius: 5px;
 }
 .notice{
+    margin-top: 20px;
     font-size: 20px;
     display: block;
     margin-bottom: -3px;
